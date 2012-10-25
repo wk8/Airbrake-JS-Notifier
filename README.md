@@ -1,0 +1,2 @@
+Airbrake-JS-Notifier
+====================
